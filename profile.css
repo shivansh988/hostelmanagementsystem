@@ -1,0 +1,17 @@
+@media screen and (max-width:800px){
+	
+	.sidebar
+{
+	width:0px;
+	padding-top:130px;
+}
+#btn1{
+	
+	display:inline;
+	z-index:1;
+}
+#div5{
+	 margin-left:0px;
+	 margin-top:130px;
+}
+}

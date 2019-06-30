@@ -1,0 +1,46 @@
+
+.sidebar
+{
+	width:200px;
+	height:100%;
+	background-color:#111;
+	padding-top:50px;
+	position:fixed;
+	left:0;
+	top:48px;
+	overflow-x:hidden;
+	
+}
+
+.list-group-item{
+	background-color:#111 !important;
+	border:none !important;
+	color:white !important;
+}
+.navbar{
+	margin-bottom:0px !important;
+	color:white !important;
+	background-color:#111 !important;
+	border:none !important;
+	clear:left !important;
+	z-index:1 !important;
+}
+#mainlabel{
+	color:#fffdd0;
+	padding-left:30px;
+	
+}
+#btn1{
+	background-color:black;
+	height:50px;
+	width:50px;
+	display:none;
+	z-index:1;
+}
+#div5{
+	 margin-left:250px;
+	 margin-top:80px;
+}
+.toggle{
+	width:100% !important;
+}

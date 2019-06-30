@@ -1,0 +1,22 @@
+
+#pan1{
+	 background-color:blue;
+	 color:white;
+	 
+}
+#pan2{
+	 background-color:green;
+	 color:white;
+	
+}
+
+.adj{
+	width:180px !important;
+	height:180px !important;
+	font-size:40px !important;
+}
+
+.adj2{
+	width:180px !important;
+	height:40px !important;
+}

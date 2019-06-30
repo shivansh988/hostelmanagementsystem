@@ -1,0 +1,31 @@
+
+
+$(document).ready(function(){
+	$("#btn1").click(function(){
+		$("#div4").toggleClass("toggle");
+	});
+	
+$(window).bind('resize',function(){
+	
+	if($(window).width()>800)
+		
+	{
+		var div=$("#div4");
+		div.css("width","200px");
+		div.css("padding-top","50px");
+		div.removeClass("toggle");
+		$("#div5").css("margin-left","250px");
+		$("#btn1").hide();
+		
+	}
+	else
+		{
+			var div=$("#div4");
+		div.css("width","0px");
+		div.css("padding-top","80px");
+		$("#div5").css("margin-left","0px");
+		$("#btn1").show();
+		
+	}
+});
+});

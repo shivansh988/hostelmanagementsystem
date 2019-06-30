@@ -1,0 +1,5 @@
+<ul class="nav navbar-nav navbar-right">
+	<li>
+	 <a style="color:white;padding:8px;" href="#"><i style="color:white;padding:8px;" class="glyphicon glyphicon-user"></i>Account
+	 <span style="color:white;padding:8px;" class="glyphicon glyphicon-menu-down"></span></a></li></ul>
+		
